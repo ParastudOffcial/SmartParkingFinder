@@ -24,7 +24,7 @@ ParkEase is a location-based smart parking app built with React Native Expo. It 
 | Navigation | React Navigation |
 | Maps | Google Maps API |
 | Backend | Node.js |
-| Database | MongoDB, Firebase |
+| Database | Firebase |
 
 ---
 
