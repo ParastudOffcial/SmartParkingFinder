@@ -1,7 +1,5 @@
 # ParkEase – Smart Parking Finder
 
-> ⚠️ This project is currently a work in progress / demo. Some features may be incomplete.
-
 ParkEase is a location-based smart parking app built with React Native Expo. It helps users discover nearby parking spots, check real-time availability, and navigate directly to their chosen slot using Google Maps.
 
 ---
